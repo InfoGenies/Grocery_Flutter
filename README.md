@@ -1,6 +1,5 @@
 # grocery_app
-
-A new Flutter project.
+A grocery store app with Strapi and Dart implementation
 
 ## Screenshots
 
