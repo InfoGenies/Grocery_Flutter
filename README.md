@@ -30,8 +30,7 @@ lib
 │    └──product_controller.dart     
 │    
 └───extension
-│    │──color_extension.dart
-│    └──string_extension.dart
+│   
 └───helper
 │    └──binding.dart
 │
